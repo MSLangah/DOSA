@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "admin@husnain.com": "Admin@123"
+    },
+    "users": {
+        "abdullahmazri124@gmail.com": "abdullah",
+        "abdullah@.com": "123456"
+    },
+    "metadata": {
+        "version": "1.0",
+        "created": "2025-12-09T00:20:45.970137",
+        "last_modified": "2025-12-15T16:45:30.510276"
+    }
+}
